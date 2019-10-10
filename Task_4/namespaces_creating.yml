@@ -1,1 +1,6 @@
 #test
+#This file will creating namespaces using yaml file
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: testing-services
